@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-## [Report](crocus-zenobia-863.notion.site/Zephyr-Station-Technical-Report-2a01ebfe2064803aa54ae7de4e927b2c?pvs=73)
+[Report](https://crocus-zenobia-863.notion.site/Zephyr-Station-Technical-Report-2a01ebfe2064803aa54ae7de4e927b2c?pvs=73)
 
 ## 🎯 Overview
 
