@@ -1,4 +1,4 @@
-# 🌡️ ESP32 Smart Room Monitor
+# 🌡️ Zephyr Station (Smart Room Monitor)
 
 > A comprehensive IoT environmental monitoring system with multi-sensor support, real-time visualization, data logging, and intelligent alerts.
 
