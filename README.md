@@ -6,8 +6,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
-##
-## [Report](https://crocus-zenobia-863.notion.site/Zephyr-Station-Technical-Report-de41e9c0afd3444195afbac904fe2edc?pvs=74)
+#### [Report](https://crocus-zenobia-863.notion.site/Zephyr-Station-Technical-Report-de41e9c0afd3444195afbac904fe2edc?pvs=74)
 
 ## 🎯 Overview
 
