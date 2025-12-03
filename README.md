@@ -101,7 +101,7 @@ Zephyr Station is an advanced environmental monitoring system designed for conti
 ## 📡 Pin Configuration
 
 ```
-┌─────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────┐
 │                      ESP32 Pin Mapping                       │
 ├─────────────────┬─────────────┬──────────────────────────────┤
 │    Component    │   GPIO Pin  │            Notes             │
